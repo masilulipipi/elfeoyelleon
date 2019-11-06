@@ -1,0 +1,1 @@
+var diablo4 = 2021
